@@ -11,7 +11,8 @@ Open .sln file inside VMCurrencyApi\VMCurrencyApi folder.
   "ConnectionStrings": {
     "VMCurrencyConnection": "Server=*YourServer*;Database=VMCurrency;Trusted_Connection=True;MultipleActiveResultSets=true;TrustServerCertificate=True"
   }
-  
+* For Database no other manual jobs should be done, it will auto generate the db, tables and inserts.
+    
 For more information: https://www.connectionstrings.com/sql-server/
 
 ## Development server
